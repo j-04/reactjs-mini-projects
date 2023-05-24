@@ -10,3 +10,7 @@
 
 ---
 ## Projects:
+
+### **Finance tracker**
+
+A simple application in which the user can track his own financical costs.
